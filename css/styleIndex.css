@@ -1,0 +1,37 @@
+/*The body which is a flex container, with a background image*/
+.logIn {
+  background-image: url(/images/indexPage.jpg);
+  display: flex;
+  justify-content: center;
+  padding-top: 12.5%;
+}
+   
+/*The Log In in button*/
+.button {
+  background-color: red; 
+  border: none;
+  border-radius: 8.5%;
+  color: azure;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
+/*The created flexbox that contains the information required and the Log in Button*/
+.logBox {
+  border: 2px solid;
+  border-color: black;
+  width : 20%;
+  height: 30%;
+  padding: 3%;
+  color:azure;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
