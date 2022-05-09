@@ -3,7 +3,12 @@
   background-image: url(/images/indexPage.jpg);
   display: flex;
   justify-content: center;
-  padding-top: 12.5%;
+  padding-top: 7%;
+}
+
+/*Netflix logo picture*/
+#netflixLogo{
+  padding-bottom: 5%;
 }
    
 /*The Log In in button*/

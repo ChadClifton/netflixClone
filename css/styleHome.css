@@ -1,0 +1,61 @@
+header{
+    max-height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+
+#home {
+    max-height: 50px;
+    background-color: red; 
+    border: none;
+    color: azure;
+    padding:  15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    align-self: center;
+}
+
+#comingSoon {
+    max-height: 50px;
+    background-color: red; 
+    border: none;
+    color: azure;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    align-self: center;
+}
+
+#watchList {
+    max-height: 50px;
+    background-color: red; 
+    border: none;
+    color: azure;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    align-self: center;
+}
+
+#logOut {
+    max-height: 50px;
+    background-color: red; 
+    border: none;
+    color: azure;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    align-self: center;
+}
+
+body{
+    background-color: black;
+}
